@@ -1,0 +1,16 @@
+C:\Users\en-es\RiderProjects\DesignPattern\Singleton\bin\Debug\net5.0\Singleton.exe
+C:\Users\en-es\RiderProjects\DesignPattern\Singleton\bin\Debug\net5.0\Singleton.deps.json
+C:\Users\en-es\RiderProjects\DesignPattern\Singleton\bin\Debug\net5.0\Singleton.runtimeconfig.json
+C:\Users\en-es\RiderProjects\DesignPattern\Singleton\bin\Debug\net5.0\Singleton.runtimeconfig.dev.json
+C:\Users\en-es\RiderProjects\DesignPattern\Singleton\bin\Debug\net5.0\Singleton.dll
+C:\Users\en-es\RiderProjects\DesignPattern\Singleton\bin\Debug\net5.0\ref\Singleton.dll
+C:\Users\en-es\RiderProjects\DesignPattern\Singleton\bin\Debug\net5.0\Singleton.pdb
+C:\Users\en-es\RiderProjects\DesignPattern\Singleton\obj\Debug\net5.0\Singleton.csprojAssemblyReference.cache
+C:\Users\en-es\RiderProjects\DesignPattern\Singleton\obj\Debug\net5.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\en-es\RiderProjects\DesignPattern\Singleton\obj\Debug\net5.0\Singleton.AssemblyInfoInputs.cache
+C:\Users\en-es\RiderProjects\DesignPattern\Singleton\obj\Debug\net5.0\Singleton.AssemblyInfo.cs
+C:\Users\en-es\RiderProjects\DesignPattern\Singleton\obj\Debug\net5.0\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\en-es\RiderProjects\DesignPattern\Singleton\obj\Debug\net5.0\Singleton.dll
+C:\Users\en-es\RiderProjects\DesignPattern\Singleton\obj\Debug\net5.0\ref\Singleton.dll
+C:\Users\en-es\RiderProjects\DesignPattern\Singleton\obj\Debug\net5.0\Singleton.pdb
+C:\Users\en-es\RiderProjects\DesignPattern\Singleton\obj\Debug\net5.0\Singleton.genruntimeconfig.cache

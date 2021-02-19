@@ -1,0 +1,16 @@
+C:\Users\en-es\RiderProjects\DesignPattern\Builder\bin\Debug\net5.0\Builder.exe
+C:\Users\en-es\RiderProjects\DesignPattern\Builder\bin\Debug\net5.0\Builder.deps.json
+C:\Users\en-es\RiderProjects\DesignPattern\Builder\bin\Debug\net5.0\Builder.runtimeconfig.json
+C:\Users\en-es\RiderProjects\DesignPattern\Builder\bin\Debug\net5.0\Builder.runtimeconfig.dev.json
+C:\Users\en-es\RiderProjects\DesignPattern\Builder\bin\Debug\net5.0\Builder.dll
+C:\Users\en-es\RiderProjects\DesignPattern\Builder\bin\Debug\net5.0\ref\Builder.dll
+C:\Users\en-es\RiderProjects\DesignPattern\Builder\bin\Debug\net5.0\Builder.pdb
+C:\Users\en-es\RiderProjects\DesignPattern\Builder\obj\Debug\net5.0\Builder.csprojAssemblyReference.cache
+C:\Users\en-es\RiderProjects\DesignPattern\Builder\obj\Debug\net5.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\en-es\RiderProjects\DesignPattern\Builder\obj\Debug\net5.0\Builder.AssemblyInfoInputs.cache
+C:\Users\en-es\RiderProjects\DesignPattern\Builder\obj\Debug\net5.0\Builder.AssemblyInfo.cs
+C:\Users\en-es\RiderProjects\DesignPattern\Builder\obj\Debug\net5.0\Builder.csproj.CoreCompileInputs.cache
+C:\Users\en-es\RiderProjects\DesignPattern\Builder\obj\Debug\net5.0\Builder.dll
+C:\Users\en-es\RiderProjects\DesignPattern\Builder\obj\Debug\net5.0\ref\Builder.dll
+C:\Users\en-es\RiderProjects\DesignPattern\Builder\obj\Debug\net5.0\Builder.pdb
+C:\Users\en-es\RiderProjects\DesignPattern\Builder\obj\Debug\net5.0\Builder.genruntimeconfig.cache

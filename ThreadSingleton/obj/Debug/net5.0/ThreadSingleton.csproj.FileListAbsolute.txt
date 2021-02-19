@@ -1,0 +1,16 @@
+C:\Users\en-es\RiderProjects\DesignPattern\ThreadSingleton\bin\Debug\net5.0\ThreadSingleton.exe
+C:\Users\en-es\RiderProjects\DesignPattern\ThreadSingleton\bin\Debug\net5.0\ThreadSingleton.deps.json
+C:\Users\en-es\RiderProjects\DesignPattern\ThreadSingleton\bin\Debug\net5.0\ThreadSingleton.runtimeconfig.json
+C:\Users\en-es\RiderProjects\DesignPattern\ThreadSingleton\bin\Debug\net5.0\ThreadSingleton.runtimeconfig.dev.json
+C:\Users\en-es\RiderProjects\DesignPattern\ThreadSingleton\bin\Debug\net5.0\ThreadSingleton.dll
+C:\Users\en-es\RiderProjects\DesignPattern\ThreadSingleton\bin\Debug\net5.0\ref\ThreadSingleton.dll
+C:\Users\en-es\RiderProjects\DesignPattern\ThreadSingleton\bin\Debug\net5.0\ThreadSingleton.pdb
+C:\Users\en-es\RiderProjects\DesignPattern\ThreadSingleton\obj\Debug\net5.0\ThreadSingleton.csprojAssemblyReference.cache
+C:\Users\en-es\RiderProjects\DesignPattern\ThreadSingleton\obj\Debug\net5.0\ThreadSingleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\en-es\RiderProjects\DesignPattern\ThreadSingleton\obj\Debug\net5.0\ThreadSingleton.AssemblyInfoInputs.cache
+C:\Users\en-es\RiderProjects\DesignPattern\ThreadSingleton\obj\Debug\net5.0\ThreadSingleton.AssemblyInfo.cs
+C:\Users\en-es\RiderProjects\DesignPattern\ThreadSingleton\obj\Debug\net5.0\ThreadSingleton.csproj.CoreCompileInputs.cache
+C:\Users\en-es\RiderProjects\DesignPattern\ThreadSingleton\obj\Debug\net5.0\ThreadSingleton.dll
+C:\Users\en-es\RiderProjects\DesignPattern\ThreadSingleton\obj\Debug\net5.0\ref\ThreadSingleton.dll
+C:\Users\en-es\RiderProjects\DesignPattern\ThreadSingleton\obj\Debug\net5.0\ThreadSingleton.pdb
+C:\Users\en-es\RiderProjects\DesignPattern\ThreadSingleton\obj\Debug\net5.0\ThreadSingleton.genruntimeconfig.cache

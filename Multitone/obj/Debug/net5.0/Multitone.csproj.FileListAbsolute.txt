@@ -1,0 +1,16 @@
+C:\Users\en-es\RiderProjects\DesignPattern\Multitone\bin\Debug\net5.0\Multitone.exe
+C:\Users\en-es\RiderProjects\DesignPattern\Multitone\bin\Debug\net5.0\Multitone.deps.json
+C:\Users\en-es\RiderProjects\DesignPattern\Multitone\bin\Debug\net5.0\Multitone.runtimeconfig.json
+C:\Users\en-es\RiderProjects\DesignPattern\Multitone\bin\Debug\net5.0\Multitone.runtimeconfig.dev.json
+C:\Users\en-es\RiderProjects\DesignPattern\Multitone\bin\Debug\net5.0\Multitone.dll
+C:\Users\en-es\RiderProjects\DesignPattern\Multitone\bin\Debug\net5.0\ref\Multitone.dll
+C:\Users\en-es\RiderProjects\DesignPattern\Multitone\bin\Debug\net5.0\Multitone.pdb
+C:\Users\en-es\RiderProjects\DesignPattern\Multitone\obj\Debug\net5.0\Multitone.csprojAssemblyReference.cache
+C:\Users\en-es\RiderProjects\DesignPattern\Multitone\obj\Debug\net5.0\Multitone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\en-es\RiderProjects\DesignPattern\Multitone\obj\Debug\net5.0\Multitone.AssemblyInfoInputs.cache
+C:\Users\en-es\RiderProjects\DesignPattern\Multitone\obj\Debug\net5.0\Multitone.AssemblyInfo.cs
+C:\Users\en-es\RiderProjects\DesignPattern\Multitone\obj\Debug\net5.0\Multitone.csproj.CoreCompileInputs.cache
+C:\Users\en-es\RiderProjects\DesignPattern\Multitone\obj\Debug\net5.0\Multitone.dll
+C:\Users\en-es\RiderProjects\DesignPattern\Multitone\obj\Debug\net5.0\ref\Multitone.dll
+C:\Users\en-es\RiderProjects\DesignPattern\Multitone\obj\Debug\net5.0\Multitone.pdb
+C:\Users\en-es\RiderProjects\DesignPattern\Multitone\obj\Debug\net5.0\Multitone.genruntimeconfig.cache

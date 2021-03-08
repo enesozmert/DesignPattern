@@ -1,0 +1,16 @@
+C:\Users\en-es\RiderProjects\DesignPattern\NullObject\bin\Debug\net5.0\NullObject.exe
+C:\Users\en-es\RiderProjects\DesignPattern\NullObject\bin\Debug\net5.0\NullObject.deps.json
+C:\Users\en-es\RiderProjects\DesignPattern\NullObject\bin\Debug\net5.0\NullObject.runtimeconfig.json
+C:\Users\en-es\RiderProjects\DesignPattern\NullObject\bin\Debug\net5.0\NullObject.runtimeconfig.dev.json
+C:\Users\en-es\RiderProjects\DesignPattern\NullObject\bin\Debug\net5.0\NullObject.dll
+C:\Users\en-es\RiderProjects\DesignPattern\NullObject\bin\Debug\net5.0\ref\NullObject.dll
+C:\Users\en-es\RiderProjects\DesignPattern\NullObject\bin\Debug\net5.0\NullObject.pdb
+C:\Users\en-es\RiderProjects\DesignPattern\NullObject\obj\Debug\net5.0\NullObject.csprojAssemblyReference.cache
+C:\Users\en-es\RiderProjects\DesignPattern\NullObject\obj\Debug\net5.0\NullObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\en-es\RiderProjects\DesignPattern\NullObject\obj\Debug\net5.0\NullObject.AssemblyInfoInputs.cache
+C:\Users\en-es\RiderProjects\DesignPattern\NullObject\obj\Debug\net5.0\NullObject.AssemblyInfo.cs
+C:\Users\en-es\RiderProjects\DesignPattern\NullObject\obj\Debug\net5.0\NullObject.csproj.CoreCompileInputs.cache
+C:\Users\en-es\RiderProjects\DesignPattern\NullObject\obj\Debug\net5.0\NullObject.dll
+C:\Users\en-es\RiderProjects\DesignPattern\NullObject\obj\Debug\net5.0\ref\NullObject.dll
+C:\Users\en-es\RiderProjects\DesignPattern\NullObject\obj\Debug\net5.0\NullObject.pdb
+C:\Users\en-es\RiderProjects\DesignPattern\NullObject\obj\Debug\net5.0\NullObject.genruntimeconfig.cache
